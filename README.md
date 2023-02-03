@@ -1,9 +1,15 @@
-### Hi there 👋
+<!-- ## Olá, me chamo Brayan Da Silva Nunes Linhar. 🎯
 
-<!--
-**BrayanDeve/BrayanDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=BrayanDev&animation=fadeIn&fontSize=24&fontAlign=13.4&fontAlignY=50&textBg=true"/>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=26&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brayan+Linhar;I'm+22+years+old;I'm+from+Brazil;I+Undergraduate+Student+in+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=26&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Brayan+Linhar;Eu+tenho+22+anos;Eu+sou+do+Brasil;+Estudante+de+Graduação+em+Desenvovimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Curiosidade: ...
 -->
+
+## EM CONSTRUÇÃO
