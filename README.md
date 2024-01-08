@@ -11,7 +11,7 @@
 </h2>
 
 <p align="justify">
-  Busco minha primeira oportunidade na área de Tecnologia, para a construção de um futuro sólido exercendo meus conhecimentos e aprendendo com os demais, determinado para isso acontecer, concílio a graduação com cursos profissionalizantes na área e de idiomas.
+  Atualmente atuando como desenvolvedor de RPA, automação de processos usando a plataforma UiPath, linguagem VBA, com experiência em Python e C++. Visando sempre me atualizar, mantenhos meu repositório atualizado, com meus conhecimentos e novas tecnologias que estou estudando.
 </p><br>
 
 <div align="center">  
